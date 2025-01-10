@@ -2,13 +2,13 @@
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-This repository contains a **game cheat loader** developed using **C++**. The loader fetches a DLL file and injects it into a running game process. Once injected, the loader allows manipulation of various game parameters, exploits, and triggers custom behaviors such as sending packets and causing crashes.
+This repository contains a **game cheat loader** developed using **C++**. The loader fetches a DLL file and injects it into a running game process.
 
 > **Note:** This tool is intended **only for educational purposes**. The creator is not responsible for any consequences resulting from its usage. Misuse can lead to bans, crashes, or other issues in online games.
 
 ## What is this loader?
 
-The loader is a **C++-based** application that dynamically loads and injects a DLL into a running game process. Once injected, the DLL can interact with the game's memory and network protocols to perform exploits, send custom packets, and trigger specific in-game behaviors.
+The loader is a **C++-based** application that dynamically loads and injects a DLL into a running game process. 
 
 ### Key Points
 
